@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper"
+    tools:context=".Profile.RegisterSelection">
+
+    <Button
+        android:id="@+id/bUser2"
+        android:layout_width="330dp"
+        android:layout_height="319dp"
+        android:background="@drawable/bonelogo"
+        android:text="ADMIN"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.912" />
+
+    <Button
+        android:id="@+id/bUser1"
+        android:layout_width="330dp"
+        android:layout_height="319dp"
+        android:background="@drawable/bonelogo"
+        android:text="USER"
+        android:textColor="@android:color/background_light"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.138" />
+</androidx.constraintlayout.widget.ConstraintLayout>

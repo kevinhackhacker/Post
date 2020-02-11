@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785096200333",
+    "firebase_url": "https://pawprince-4885d.firebaseio.com",
+    "project_id": "pawprince-4885d",
+    "storage_bucket": "pawprince-4885d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785096200333:android:4bc3666a8bb7f0aa1ed2c4",
+        "android_client_info": {
+          "package_name": "pawprince.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785096200333-6to80t37aqheb1m0tos1eolnitj59ct0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pawprince.com",
+            "certificate_hash": "d13fe3a581c503f37970cf875ecd6c9358cab759"
+          }
+        },
+        {
+          "client_id": "785096200333-fesag3ujkect7h505a1ijc9qmtumk4h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdULooWjJn6e2tlvq7LeZ9LSJofM6uijI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785096200333-fesag3ujkect7h505a1ijc9qmtumk4h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
